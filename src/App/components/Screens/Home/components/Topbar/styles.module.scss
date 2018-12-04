@@ -1,0 +1,27 @@
+.navbar {
+  height: 50px;
+  background: deepskyblue;
+  display: flex;
+  align-items: center;
+  border-radius: 5px;
+  margin: auto 5px;
+}
+
+.list {
+  background: none;
+  border: none;
+  border-radius: 10px;
+  height: 20px;
+  margin: 0 10px;
+  text-align: center;
+  transition: background 0.3s ease-in-out;
+  width: 70px;
+  &:hover {
+    background: blueviolet;
+  }
+}
+
+.link {
+  color: white;
+  text-decoration: none;
+}
