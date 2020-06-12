@@ -1,3 +1,7 @@
+## Store whit productos 
+
+![store with product list](https://user-images.githubusercontent.com/25165141/84515886-5a364280-accd-11ea-9504-d8e6363c2e7d.gif)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
